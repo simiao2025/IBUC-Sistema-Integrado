@@ -1,0 +1,5 @@
+{
+  "name": "IBUC-System",
+  "description": "Sistema de Gerenciamento de Matrículas (MVP) para ambientes Aluno e Administrativo, integrado com Supabase.",
+  "requestFramePermissions": []
+}
